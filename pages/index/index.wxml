@@ -1,0 +1,5 @@
+ 
+ 	<button  bindtap="openMap"> 查看当前位置 </button>
+	<button  bindtap="writePhotosAlbum"> 保存图片 </button>
+ 
+ 
